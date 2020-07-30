@@ -15,25 +15,55 @@ function CadastroCategoria() {
                 infosDoEvento.preventDefault();
                 setCategorias([...categorias,nomeDaCategoria])
             }}>
-                <label> Nome da Categoria:
-                    <input 
-                        type="text" 
-                        value={nomeDaCategoria} 
-                        onChange={
-                            function funcaoHandlerQueOErroPediu(infosDoEvento){
-                                setNomeDaCategoria(infosDoEvento.target.value);
+                <div>
+                    <label> Nome da Categoria:
+                        <input
+                            type="text"
+                            value={nomeDaCategoria}
+                            onChange={
+                                function funcaoHandlerQueOErroPediu(infosDoEvento) {
+                                    setNomeDaCategoria(infosDoEvento.target.value);
+                                }
                             }
-                        }
-                    />
-                </label>
+                        />
+                    </label>
+                </div>
 
+                <div>
+                    <label> Descrição:
+                        <textarea
+                            type="text"
+                            value={nomeDaCategoria}
+                            onChange={
+                                function funcaoHandlerQueOErroPediu(infosDoEvento) {
+                                    setNomeDaCategoria(infosDoEvento.target.value);
+                                }
+                            }
+                        />
+                    </label>
+                </div>
+
+                <div>
+                    <label> Cor:
+                        <input
+                            type="color"
+                            value={nomeDaCategoria}
+                            onChange={
+                                function funcaoHandlerQueOErroPediu(infosDoEvento) {
+                                    setNomeDaCategoria(infosDoEvento.target.value);
+                                }
+                            }
+                        />
+                    </label>
+                </div>
+                
                 <button>Cadastrar</button>
             </form>
 
             <ul>
-                {categorias.map((categoria)=>{
+                {categorias.map((categoria, indice)=>{
                     return(
-                        <li key={categoria}>{categoria}</li>
+                        <li key={`${categoria}${indice}`}>{categoria}</li>
                     )
                 })
                 }
