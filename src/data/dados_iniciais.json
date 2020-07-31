@@ -1,50 +1,66 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "1ª Temporada - Eu, a patroa e as crianças",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Piloto",
+          "url": "https://www.youtube.com/watch?v=3B_qXITddHU&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "01 - Piloto",
+          "url": "https://www.youtube.com/watch?v=3B_qXITddHU&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "02 - A Verdade Dói",
+          "url": "https://www.youtube.com/watch?v=oIOygrOFXCo&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=2"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "03 - O Apego à Tralhas",
+          "url": "https://www.youtube.com/watch?v=_e1-H1Ds_l8&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=3"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "04 - Dos Seios e Basquete",
+          "url": "https://www.youtube.com/watch?v=fRMtkK91wP8&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "05 - Fazendo a Nota",
+          "url": "https://www.youtube.com/watch?v=HZKuHV0CHb0&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=5"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "06 - Trabalhando Nisso",
+          "url": "https://www.youtube.com/watch?v=ETBKW9t3yqY&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=6"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "07 - Estalando e Farejando",
+          "url": "https://www.youtube.com/watch?v=kZVLk2tafcQ&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=7"
+        },
+        {
+          "titulo": "08 - Ele Disse, Ela Disse",
+          "url": "https://www.youtube.com/watch?v=F0vlT_T2UJM&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=8"
+        },
+        {
+          "titulo": "09 - Terminando e Quebrando",
+          "url": "https://www.youtube.com/watch?v=v-PSDsvA7VI&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=9"
+        },
+        {
+          "titulo": "10 - Um Pouco de Romance",
+          "url": "https://www.youtube.com/watch?v=Gj5UB1aSq-A&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=10"
+        },
+        {
+          "titulo": "11 - Cabelo Hoje, Sem Amanhã",
+          "url": "https://www.youtube.com/watch?v=PaClAVFntKo&list=PLzgiudKkoJnnBLeHdihWHy_KY2q3aol_Z&index=11"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "2ª Temporada - Eu, a patroa e as crianças",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -74,7 +90,7 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "3ª Temporada - Eu, a patroa e as crianças",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -100,7 +116,7 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "4ª Temporada - Eu, a patroa e as crianças",
       "cor": "orange",
       "videos": [
         {
@@ -122,7 +138,7 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "5ª Temporada - Eu, a patroa e as crianças",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
